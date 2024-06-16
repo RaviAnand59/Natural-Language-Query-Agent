@@ -96,7 +96,8 @@ Once the application is running, you can input natural language queries, and the
 
 ## Contact
 
-
 For any questions or issues, please contact [Ravi Anand](mailto:anandravi977@gmail.com) or call +91-6207656307.
+
+
 ---
 
