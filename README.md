@@ -93,18 +93,10 @@ This project is part of the EMA AI Intern Challenge. The goal is to build a Natu
 
 Once the application is running, you can input natural language queries, and the agent will process and return relevant results from the dataset.
 
-## Contributing
-
-If you wish to contribute to the project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or issues, please contact [Ravi Anand](mailto:ravi@example.com).
 
+For any questions or issues, please contact [Ravi Anand](mailto:anandravi977@gmail.com) or call +91-6207656307.
 ---
 
-Feel free to customize this README file further based on your project's specifics and your preferences.
