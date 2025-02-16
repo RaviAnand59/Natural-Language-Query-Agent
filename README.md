@@ -95,9 +95,7 @@ The complete explanation and the working of code can be found [here](https://doc
 Once the application is running, you can input natural language queries, and the agent will process and return relevant results from the dataset.
 
 
-## Contact
 
-For any questions or issues, please contact [Ravi Anand](mailto:anandravi977@gmail.com) or call +91-6207656307.
 
 
 ---
